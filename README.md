@@ -12,7 +12,7 @@ Ce document contient tous les documents d'architecture concernant le projet de c
 * [Exigences pour le développement de la POC.pdf](https://github.com/OC-P11-MedHead/medhead-archi/blob/main/Exigences_pour_le_de%CC%81veloppement_de_la_POC.pdf)
 
 
-## CI/CD Documentation
+### CI/CD Documentation
 
 La pipeline a été réalisé avec Github Action. 
 

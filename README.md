@@ -24,3 +24,5 @@ Les étapes se décomposent de la façon suivantes lors de chaque push sur la br
 * Publish Docker image
 
 Le détail du workflow est accessible ici : [WorkFlow](https://github.com/OC-P11-MedHead/medhead-app/blob/main/.github/workflows/workflow.yaml)
+
+> L'étape de déploiement n'est pas réalisée dans le cadre du POC, elle devra être mise en place lors de la mise à disposition de l'environnement de PRE-PROD, PROD.

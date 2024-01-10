@@ -30,17 +30,7 @@ Ce document contient tous les documents d'architecture concernant la création d
 * test
 * test
 * test
-* test
-* test
-* test
-* test
-* test
-* test
-* test
-* test
-* test
-* test
-* test
+
 ## Table of content
 
 * [CI/CD Documentation](#cicd)
@@ -50,6 +40,28 @@ Ce document contient tous les documents d'architecture concernant la création d
 * [Déclaration des travaux d’architecture.pdf](https://github.com/OC-P11-MedHead/medhead-archi/blob/main/D%C3%A9claration%20des%20travaux%20d%E2%80%99architecture.pdf)
 * [Exigences pour le développement de la POC.pdf](https://github.com/OC-P11-MedHead/medhead-archi/blob/main/Exigences_pour_le_de%CC%81veloppement_de_la_POC.pdf)
 
+
+* test
+* test
+* test
+* test
+* test
+* test
+* test
+* test
+* test
+* test
+* test test
+* test
+* test
+* test
+* test
+* test
+* test
+* test
+* test
+* test
+* test
 
 ## CI/CD Documentation <a name="cicd"></a>
 

@@ -43,7 +43,7 @@ Ce document contient tous les documents d'architecture concernant la création d
 * test
 ## Table of content
 
-* [CI/CD Documentation](#CI/CD)
+* [CI/CD Documentation](#CI CD)
 * [Principes de l'architecture](https://github.com/OC-P11-MedHead/medhead-archi/blob/main/Principes%20de%20l'architecture.pdf)
 * [Document de définition de l'architecture](https://github.com/OC-P11-MedHead/medhead-archi/blob/main/Document%20de%20d%C3%A9finition%20de%20l'architecture.pdf)
 * [Données de référence sur les spécialités NHS](https://github.com/OC-P11-MedHead/medhead-archi/blob/main/Donn%C3%A9es%20de%20r%C3%A9f%C3%A9rence%20sur%20les%20sp%C3%A9cialit%C3%A9s%20NHS.pdf)
@@ -51,7 +51,7 @@ Ce document contient tous les documents d'architecture concernant la création d
 * [Exigences pour le développement de la POC.pdf](https://github.com/OC-P11-MedHead/medhead-archi/blob/main/Exigences_pour_le_de%CC%81veloppement_de_la_POC.pdf)
 
 
-### CI/CD
+## CI CD
 
 La pipeline a été réalisé avec Github Action. 
 

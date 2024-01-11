@@ -13,7 +13,7 @@ Ce document contient tous les documents d'architecture concernant la création d
 
 ## CI/CD Documentation <a name="cicd"></a>
 
-La pipeline a été réalisé avec Github Action. 
+La pipeline a été réalisée avec Github Action. 
 
 Les étapes de la pipeline CI/CD se décomposent de la façon suivante lors de chaque **push** sur la branche **MAIN**:
 
